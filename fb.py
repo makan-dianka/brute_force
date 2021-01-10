@@ -1,6 +1,6 @@
 # Autor : Makan leboss
 # Email : makan.dianka@hotmail.com
-# Brute force script to crack any passwords facebook. 
+# Brute force script to crack any passwords facebook.      
 
 import requests
 import threading
